@@ -1,0 +1,2 @@
+movl   $0x10,0xffffffd4(%ebp)
+lea    0x2(%esp,1),%ecx

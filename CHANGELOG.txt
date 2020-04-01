@@ -1,0 +1,5 @@
+0.1
+Initial release
+x86 assembler working
+C compiler working, but missing many features
+
