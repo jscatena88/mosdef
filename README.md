@@ -4,3 +4,5 @@ For now just an easy way to get a copy of MOSDEF. I had no hand in writing this 
 
 
 If anyone knows where to find a more recent version also under an LGPL license let me know and I'll update this
+
+See original presentation here: https://www.blackhat.com/presentations/win-usa-04/bh-win-04-aitel.pdf
